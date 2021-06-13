@@ -42,8 +42,10 @@ Number of  neurons, layers, and activation functions used for our neural network
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2ii.png)</br>
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iii.png)</br>
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iv.png)</br>
+![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d3i.png)</br>
+![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d3ii.png)</br>
 ## Deliverable 3: Optimize the Model</br>
 This is our optimized model 
 number_input_features = 42,hidden_nodes_layer1 =  70,hidden_nodes_layer2 = 40,hidden_nodes_layer3 = 30,relu,relu,relu,sigmoid as activation function </br>
-![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d3i.png)</br>
-![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d3ii.png)</br>
+![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iii.png)</br>
+![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iv.png)</br>
