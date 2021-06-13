@@ -3,7 +3,7 @@
 Bek’s come a long way since her first day at that boot camp five years ago—and since earlier this week, when she started learning about neural networks! </br>
 Now, she is finally ready to put her skills to work to help the foundation predict where to make investments.</br>
 
-With your knowledge of machine learning and neural networks, we’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.</br>
+With our knowledge of machine learning and neural networks, we’ll use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.</br>
 
 From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. </br>Within this dataset are a number of columns that capture metadata about each organization, such as the following:</br>
 
@@ -27,7 +27,10 @@ Deliverable 3: Optimize the Model</br>
 Deliverable 4: A Written Report on the Neural Network Mode</br>
 ## Results </br>
 ## Deliverable 1: Preprocessing Data for a Neural Network Model</br>
-
+### Data Preprocessing</br>
+1.Variable considered as the target for your model y=application_df["IS_SUCCESSFUL"],</br>
+2.Variable(s) that are considered to be the features for your model X = application_df.drop(["IS_SUCCESSFUL","SPECIAL_CONSIDERATIONS_N"]</br>
+3.Variable , neither targets nor features, and should be removed from the input data "SPECIAL_CONSIDERATIONS_N"</br>
 ## Deliverable 2: Compile, Train, and Evaluate the Model</br>
 ## Deliverable 3: Optimize the Model</br>
 ## Deliverable 4: A Written Report on the Neural Network Mode</br>
