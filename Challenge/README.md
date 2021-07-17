@@ -27,14 +27,14 @@ Deliverable 2: Compile, Train, and Evaluate the Model</br>
 Deliverable 3: Optimize the Model</br>
 Deliverable 4: A Written Report on the Neural Network Mode</br>
 ## Results </br>
-## Deliverable 1: Preprocessing Data for a Neural Network Model</br>
+##  1: Preprocessing Data for a Neural Network Model</br>
 ### Data Preprocessing</br>
 1.Variable considered as the target for your model y=application_df["IS_SUCCESSFUL"],</br>
 2.Variable(s) that are considered to be the features for your model X = application_df.drop(["IS_SUCCESSFUL","SPECIAL_CONSIDERATIONS_N"]</br>
 3.Variable , neither targets nor features, and should be removed from the input data "SPECIAL_CONSIDERATIONS_N"</br>
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d1.png)</br>
 
-## Deliverable 2: Compile, Train, and Evaluate the Model</br>
+## 2: Compile, Train, and Evaluate the Model</br>
 Number of  neurons, layers, and activation functions used for our neural network model,</br>
 1.number_input_features = 42, hidden layer1 =80, hidden layer 2 = 30 , relu,relu,sigmoid as activation function </br>
 2.number_input_features = 42,hidden_nodes_layer1 =  70,hidden_nodes_layer2 = 40,hidden_nodes_layer3 = 30,relu,relu,relu,sigmoid as activation function </br>
@@ -45,7 +45,7 @@ Number of  neurons, layers, and activation functions used for our neural network
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iv.png)</br>
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d3i.png)</br>
 
-## Deliverable 3: Optimize the Model</br>
+## 3: Optimize the Model</br>
 This is our optimized model 
 number_input_features = 42,hidden_nodes_layer1 =  70,hidden_nodes_layer2 = 40,hidden_nodes_layer3 = 30,relu,relu,relu,sigmoid as activation function </br>
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iii.png)</br>
