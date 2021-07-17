@@ -48,7 +48,7 @@ Number of  neurons, layers, and activation functions used for our neural network
 ## 3: Optimize the Model</br>
 This is our optimized model 
 number_input_features = 42,hidden_nodes_layer1 =  70,hidden_nodes_layer2 = 40,hidden_nodes_layer3 = 30,relu,relu,relu,sigmoid as activation function </br>
-![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iii.png)</br>
+<!-- ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iii.png)</br> -->
 ![Alt Text](https://github.com/ramyasnl/Neural_Networks/blob/master/Challenge/images/d2iv.png)</br>
 
 This model has the Accuracy: 0.7373760938644409 i.e 74% and Loss: 0.5699623227119446 i.e 57 % 
