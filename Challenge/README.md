@@ -22,10 +22,10 @@ IS_SUCCESSFUL—Was the money used effectively</br>
 
 ## What We Are Creating</br>
 This new assignment consists of three technical analysis deliverables and a written report.</br> 
-Deliverable 1: Preprocessing Data for a Neural Network Model</br>
-Deliverable 2: Compile, Train, and Evaluate the Model</br>
-Deliverable 3: Optimize the Model</br>
-Deliverable 4: A Written Report on the Neural Network Mode</br>
+ 1: Preprocessing Data for a Neural Network Model</br>
+ 2: Compile, Train, and Evaluate the Model</br>
+ 3: Optimize the Model</br>
+ 4: A Written Report on the Neural Network Mode</br>
 ## Results </br>
 ##  1: Preprocessing Data for a Neural Network Model</br>
 ### Data Preprocessing</br>
