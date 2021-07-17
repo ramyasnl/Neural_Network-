@@ -1,4 +1,5 @@
-## Module 19 Challenge Deliverable 4: A Written Report on the Neural Network Model
+## Module 19 
+## A Written Report on the Neural Network Model
 ## Overview of the analysis
 Bek’s come a long way since her first day at that boot camp five years ago—and since earlier this week, when she started learning about neural networks! </br>
 Now, she is finally ready to put her skills to work to help the foundation predict where to make investments.</br>
